@@ -1,6 +1,11 @@
 # data-analysis-course
 codes for assignments and projects of datal analysis course 
 
+## HW1
+
+### python programming
+
+
 ## HW2
 
 ### Data collection (crawling) and cleaning
